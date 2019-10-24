@@ -1,0 +1,1 @@
+('oil', 6)('bus', 29)('university', 2)('vehicle', 1)('agriculture', 1)('economy', 1)

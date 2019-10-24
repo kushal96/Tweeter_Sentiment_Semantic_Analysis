@@ -1,0 +1,1 @@
+('oil', 176)('bus', 66)('vehicle', 15)('economy', 65)('agriculture', 13)('population', 2)

@@ -1,0 +1,1 @@
+('oil', 24)('bus', 32)('university', 12)('vehicle', 15)('economy', 10)('expensive', 1)('population', 4)
